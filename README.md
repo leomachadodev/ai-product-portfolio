@@ -99,3 +99,13 @@ Plataforma de prospecção comercial inteligente, estruturada para automatizar p
 ---
 
 *"Bons produtos começam pela compreensão do problema. A tecnologia potencializa a solução, mas não substitui a estratégia."*
+
+
+<div align="center">
+
+*"Real products. Real users. Real results."*
+
+**Vamos construir algo juntos?**  
+📧 leomachadodev@gmail.com
+
+</div>
