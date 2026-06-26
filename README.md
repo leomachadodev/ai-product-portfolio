@@ -97,9 +97,9 @@ Plataforma de prospecção comercial inteligente, estruturada para automatizar p
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white)
 
 ---
-
-*"Bons produtos começam pela compreensão do problema. A tecnologia potencializa a solução, mas não substitui a estratégia."*
-
+*"Bons produtos começam pela compreensão do problema.
+ A tecnologia potencializa a solução,
+  mas não substitui a estratégia."
 
 <div align="center">
 
