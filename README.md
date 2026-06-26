@@ -6,6 +6,14 @@ Especializado na concepção e desenvolvimento de produtos digitais, conduzindo 
 
 ---
 
+[![Portfolio](https://img.shields.io/badge/🌐_Portfólio-000000?style=for-the-badge)](https://leonardo-machado-portfolio.webflow.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leomachado-dev/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leomachadodev@gmail.com)
+
+</div>
+
+---
+
 **Product Discovery • Product Strategy • Product Management • Product Architecture • UX Research • Product Design** 
 
 # Sobre Mim
