@@ -1,20 +1,12 @@
 # Leonardo Machado
 
-## AI Product Builder |  ## Product Manager  |  ## Product Owner  |  ## Product Strategy
+## AI Product Builder 
 
 Especializado na concepção e desenvolvimento de produtos digitais, conduzindo todo o ciclo de desenvolvimento através de Product Discovery, Product Strategy, UX Research, definição da arquitetura do produto e evolução contínua das soluções desenvolvidas.
 
 ---
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfólio-000000?style=for-the-badge)](https://leonardo-machado-portfolio.webflow.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leomachado-dev/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leomachadodev@gmail.com)
-
-</div>
-
----
-
-**Product Discovery • Product Strategy • Product Management • Product Architecture • UX Research • Product Design**
+**Product Discovery • Product Strategy • Product Management • Product Architecture • UX Research • Product Design** 
 
 # Sobre Mim
 
@@ -41,7 +33,7 @@ O processo está organizado em sete etapas que representam todo o ciclo de desen
 - Build
 - Growth
 
-📂 **Framework:** `./Framework`
+➡️ **[Explorar o Framework](./Framework/)**
 
 ---
 
@@ -55,7 +47,7 @@ Cada projeto documenta todo o processo de desenvolvimento, desde a identificaç�
 
 Plataforma para gestão da evolução esportiva de atletas, centralizando avaliações técnicas, estatísticas, histórico esportivo, scouts, registros de partidas e indicadores de desempenho.
 
-📂 `./Product Cases/ScoutIQ`
+➡️ **[ScoutIQ](./Product%20Cases/ScoutIQ/)**
 
 ---
 
@@ -63,7 +55,7 @@ Plataforma para gestão da evolução esportiva de atletas, centralizando avalia
 
 Plataforma de prospecção comercial inteligente, estruturada para automatizar processos de vendas utilizando Inteligência Artificial, CRM, automações e agentes especializados.
 
-📂 `./Product Cases/LeadForge`
+➡️ **[LeadForge](./Product%20Cases/LeadForge/)**
 
 ---
 
@@ -93,14 +85,6 @@ Plataforma de prospecção comercial inteligente, estruturada para automatizar p
 - PostgreSQL
 - Git
 - GitHub
-
----
-
-# Contato
-
-- LinkedIn 
-- Portfólio
-- Email
 
 ---
 
