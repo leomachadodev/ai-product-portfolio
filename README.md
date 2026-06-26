@@ -1,8 +1,9 @@
 # Leonardo Machado
 
-## AI Product Builder 
+## AI Product Builder | Product Manager | Product Owner
 
 Especializado na concepção e desenvolvimento de produtos digitais, conduzindo todo o ciclo de desenvolvimento através de Product Discovery, Product Strategy, UX Research, definição da arquitetura do produto e evolução contínua das soluções desenvolvidas.
+
 
 ---
 
@@ -83,16 +84,17 @@ Plataforma de prospecção comercial inteligente, estruturada para automatizar p
 
 ---
 
-# Ferramentas
+## 🛠️ Stack & Ferramentas
 
-- Lovable
-- ChatGPT
-- Claude
-- Gemini
-- Supabase
-- PostgreSQL
-- Git
-- GitHub
+![Lovable](https://img.shields.io/badge/Lovable-FF4D6D?style=for-the-badge)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white)
 
 ---
 
